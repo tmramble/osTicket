@@ -1,49 +1,55 @@
-# osTicket
-# <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>osTicket Portfolio</title>
-</head>
-<body>
-    <header>
-        <h1>Your Portfolio Title</h1>
-        <img src="your_image.jpg" alt="Portfolio Image" width="300">
-    </header>
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
-    <nav>
-        <ul>
-            <li><a href="#video">Video Demonstration</a></li>
-            <li><a href="#environments">Environments and Technologies Used</a></li>
-            <li><a href="#os">Operating Systems Used</a></li>
-            <li><a href="#installation">Installation Steps</a></li>
-        </ul>
-    </nav>
+<h1>osTicket - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-    <section id="video">
-        <h2>Video Demonstration</h2>
-        <img src="video_demo_image.jpg" alt="Video Demonstration" width="300">
-        <p>Paragraph about your video demonstration.</p>
-    </section>
 
-    <section id="environments">
-        <h2>Environments and Technologies Used</h2>
-        <img src="tech_image.jpg" alt="Technologies Used" width="300">
-        <p>Paragraph about the environments and technologies you used.</p>
-    </section>
+<h2>Video Demonstration</h2>
 
-    <section id="os">
-        <h2>Operating Systems Used</h2>
-        <img src="os_image.jpg" alt="Operating Systems Used" width="300">
-        <p>Paragraph about the operating systems you used.</p>
-    </section>
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-    <section id="installation">
-        <h2>Installation Steps</h2>
-        <img src="installation_image.jpg" alt="Installation Steps" width="300">
-        <p>Paragraph about the installation steps for your project.</p>
-    </section>
+<h2>Environments and Technologies Used</h2>
 
-</body>
-</html>
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
+<h2>List of Prerequisites</h2>
+
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
+
+<h2>Installation Steps</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
