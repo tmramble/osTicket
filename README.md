@@ -22,6 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Create Azure virtual machine
 - IIS Installation (CGI, Common HTTP Features and IIS Management Console)
 - PHP Manager for IIS
 - My SQL 5.5.62
@@ -34,7 +35,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-This open souce Ticketing system is going to be installed on one of our Virtual Machines in the Azure portal. Not only is it a trusted ticketing machine it is also a great resource to learn SLAs, different departments and permissions and how to creat eusers within it. The first step is to set up the virtual machine in Azure which is what you see above. Keep in mind my subscription is already created.
+<img src="https://i.imgur.com/SaBg5lJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+This open souce Ticketing system is going to be installed on one of our Virtual Machines in the Azure portal. Not only is it a trusted ticketing machine, it is also a great resource to learn SLAs, departments, permissions and how to creat users within it. The first step is to set up the virtual machine in Azure which is what you see above. Keep in mind my subscription is already created.
 </p>
 <br />
 
