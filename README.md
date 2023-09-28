@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket
 - Item 5
 
-<h2>Installation Steps</h2>
+<h2>Installation Slideshow Steps</h2>
 
 <p>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/5cc4Iav"  ><a href="//imgur.com/a/5cc4Iav">Installation</a></blockquote>
@@ -37,8 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 <img src="https://i.imgur.com/SaBg5lJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-This open souce Ticketing system is going to be installed on one of our Virtual Machines in the Azure portal. Not only is it a trusted ticketing machine, it is also a great resource to learn SLAs, departments, permissions and how to creat users within it. The first step is to set up the virtual machine in Azure which is what you see above. Keep in mind my subscription is already created.
+This is a smaller quicker slideshow to highlight the installation of osTicket
 </p>
 <br />
 
@@ -48,18 +47,3 @@ This open souce Ticketing system is going to be installed on one of our Virtual 
 <p>
 This open souce Ticketing system is going to be installed on one of our Virtual Machines in the Azure portal. Not only is it a trusted ticketing machine it is also a great resource to learn SLAs, different departments and permissions and how to creat eusers within it. The first step is to set up the virtual machine in Azure which is what you see above. Keep in mind my subscription is already created. This is a Windows 10 virtual machine
 </p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
