@@ -32,6 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5cc4Iav"  ><a href="//imgur.com/a/5cc4Iav">Installation</a></blockquote>
 
 </p>
 <p>
