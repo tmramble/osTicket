@@ -37,13 +37,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 <img src="https://i.imgur.com/SaBg5lJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-This is a smaller quicker slideshow to highlight the installation of osTicket
-</p>
-<br />
 
-<p>
-<img src="https://imgur.com/a/FmjVWEp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-This open souce Ticketing system is going to be installed on one of our Virtual Machines in the Azure portal. Not only is it a trusted ticketing machine it is also a great resource to learn SLAs, different departments and permissions and how to creat eusers within it. The first step is to set up the virtual machine in Azure which is what you see above. Keep in mind my subscription is already created. This is a Windows 10 virtual machine
+  Here's a smaller walkthrough of highlights from the osTicket installation</p>
+<br />
+<p>If you have any questions or want to get in touch, please feel free to <a href="mailto:taylorramble@outlook.com">email me</a>.</p>
+
+
 </p>
