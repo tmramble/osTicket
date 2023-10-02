@@ -32,7 +32,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
-<h2>Installation Steps (Click Image Below)</h2>
+<h2>Installation Steps (Click Both Videos Below)</h2>
 
 [![Watch the video](https://i.imgur.com/oVRIlRo.jpg)](https://youtu.be/vt5fpE0bzSY)
+
+</p>
+<br />
+
+[![Watch the video](https://i.imgur.com/b88IYIV.png)](https://youtu.be/OcwVTdWO6nM)
+  
+  Congrats! You have now successfully installed and setup osTicket!
+  
+  <p align="center">
+<br />
+<p>If you have any questions or want to get in touch, please feel free to <a href="mailto:taylorramble@outlook.com">email me</a>.</p>
+
+
+</p>
 
