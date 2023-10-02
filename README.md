@@ -1,3 +1,5 @@
+
+
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -30,8 +32,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
-<h2>Installation Steps</h2>
+<h2>Installation Steps (Click Image Below)</h2>
 
+[![Watch the video](https://i.imgur.com/oVRIlRo.jpg)](https://youtu.be/vt5fpE0bzSY)
 
 1.) The first thing you are going to want to do is create a virtual machine by going to https://portal.azure.com/. Setup your virtual machine with Windows 10 Pro, version 22H2. Note, you will want to create a virtual machine with atleast 2 vcpus and 16 gbs of memory.
 
@@ -39,15 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/MAhXK2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<p>
-<img src="https://imgur.com/Zf2jw07.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  
+
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
 
 <p>
