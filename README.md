@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
-<h2>Installation Steps (Click Both Videos Below)</h2>
+<h2>Installation Steps (Part 1 and 2)</h2>
 
 [![Watch the video](https://i.imgur.com/oVRIlRo.jpg)](https://youtu.be/vt5fpE0bzSY)
 
