@@ -34,10 +34,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps (Part 1 and 2)</h2>
 
+
+<a href="https://www.youtube.com/watch?v=WjkpAnz9OWU" target="_blank">Installation Video Part 1</a>
+
 [![Watch the video](https://i.imgur.com/oVRIlRo.jpg)](https://www.youtube.com/watch?v=WjkpAnz9OWU)
 
 </p>
-<br />
+<br />                 
+
+<a href="https://www.youtube.com/watch?v=WjkpAnz9OWU" target="_blank">Installation Video Part 2</a>
 
 [![Watch the video](https://i.imgur.com/b88IYIV.png)](https://youtu.be/OcwVTdWO6nM)
   
