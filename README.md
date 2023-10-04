@@ -7,7 +7,13 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+<h2>Video Demonstration</h2>
 
+- ### [YouTube: Creating Virtual Machines Part 1](https://www.youtube.com/watch?v=WjkpAnz9OWU))
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Install osTicket with Prerequisites Part 2](https://youtu.be/OcwVTdWO6nM)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,24 +36,3 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Heidi SQL
 - osTicket v1.15.8
 - Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
-
-
-<h2>Installation Steps (Part 1 and 2)</h2>
-
-
-<a href="https://www.youtube.com/watch?v=WjkpAnz9OWU" target="_blank">Installation Video Part 1</a>
-
-</p>
-<br />                 
-
-<a href="https://www.youtube.com/watch?v=WjkpAnz9OWU" target="_blank">Installation Video Part 2</a>
-  
-  Congrats! You have now successfully installed and setup osTicket!
-  
-  <p align="center">
-<br />
-<p>If you have any questions or want to get in touch, please feel free to <a href="mailto:taylorramble@outlook.com">email me</a>.</p>
-
-
-</p>
-
