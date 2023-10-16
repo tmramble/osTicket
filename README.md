@@ -9,11 +9,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Creating Virtual Machines Part 1](https://www.youtube.com/watch?v=WjkpAnz9OWU))
+- ### [YouTube: Creating Virtual Machines Part 1](https://youtu.be/cP-zbj62YxQ?si=o8NQ7wYqsTvw9meN)
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites Part 2](https://youtu.be/OcwVTdWO6nM)
+- ### [YouTube: How To Install osTicket with Prerequisites Part 2](https://youtu.be/5lfMBk4CSs0?si=yWtRdCMvEQaB-0Zk)
 
 <h2>Environments and Technologies Used</h2>
 
